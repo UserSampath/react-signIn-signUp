@@ -43,7 +43,7 @@ const SignUp = () => {
               <div>
                 <h2>Already have an account?</h2>
                 <div className="newHereButton2">
-                  <Button type={"2"} text="Sign Up" />
+                  <Button type={"2"} text="Sign In" />
                 </div>
               </div>
             </div>

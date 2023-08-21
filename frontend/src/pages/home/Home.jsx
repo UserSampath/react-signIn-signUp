@@ -6,7 +6,8 @@ import "./home.css";
 const Home = () => {
   return (
     <>
-    ff</>
+      
+    </>
   );
 };
 
